@@ -1,0 +1,41 @@
+# Jupyter ecosystem
+jupyter
+notebook
+jupyterlab
+ipykernel
+ipython
+
+# Data manipulation
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep learning (CPU versions)
+tensorflow
+torch
+keras
+
+# Utility tools
+tqdm
+joblib
+
+# Data input/output
+openpyxl
+pyarrow
+
+# Model interpretability
+shap
+
+# Environment management (optional, but useful)
+python-dotenv
